@@ -2,7 +2,7 @@
 
 ## Getting started
 
-You can view a live demo over at https://personal-resume-f81c4.firebaseapp.com or https://mutai.dev
+You can view a live demo over at https://personal-resume-f81c4.firebaseapp.com 
 
 To get the frontend running locally:
 
